@@ -32,3 +32,12 @@ a {
 img {
   width: 100%;
 }
+
+.link {
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+
+.link:hover {
+  opacity: 0.5;
+}
